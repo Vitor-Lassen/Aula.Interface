@@ -1,12 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Aula.Interface.Services
+﻿namespace Aula.Interface.Services
 {
-    public class CartaoCredito 
+    public class CartaoCredito
     {
         private double _saldo;
         public double ConsultarSaldo()
