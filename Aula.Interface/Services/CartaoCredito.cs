@@ -1,4 +1,6 @@
-﻿namespace Aula.Interface.Services
+﻿
+
+namespace Aula.Interface.Services
 {
     public class CartaoCredito
     {
